@@ -13,7 +13,7 @@ This **5-day intensive course by Kaggle and Google** provides an amazing opportu
 
 ## 📂 What's in This Repository?  
 
-- `notebooks/` → Hands-on exercises and experiments with generative models  
-- `resources/` → Links to whitepapers, AI-generated podcasts, and course materials  
-- `capstone/` → My final project showcasing my learning from the course  
+- `Notebooks/` → Hands-on exercises and experiments with generative models  
+- `Resources/` → Links to whitepapers, AI-generated podcasts, and course materials  
+- `Capstone/` → My final project showcasing my learning from the course  
 - `README.md` → This document  
